@@ -1,5 +1,5 @@
 ---
-name: senior-engineer
+name: clean-code
 description: Write clean, scalable, production-ready code following senior engineering best practices. Use this skill when the user asks to write, review, or refactor any code. Applies to all languages and frameworks. Enforces architectural discipline, naming clarity, separation of concerns, and long-term maintainability over clever shortcuts.
 ---
 
